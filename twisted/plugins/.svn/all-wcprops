@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/soab/!svn/ver/10/trunk/twisted/plugins
+END
+server_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/soab/!svn/ver/10/trunk/twisted/plugins/server_plugin.py
+END
